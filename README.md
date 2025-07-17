@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+[instagram]: https://www.instagram.com/ZimmyN32
 [linkedin]: https://www.linkedin.com/in/christian-nwogbo-1a5452352/
